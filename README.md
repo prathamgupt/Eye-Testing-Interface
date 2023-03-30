@@ -1,3 +1,7 @@
+# Deployed Link
+
+[https://gentle-jalebi-604c62.netlify.app/](https://heartfelt-kulfi-844af6.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
