@@ -1,0 +1,76 @@
+/* .App {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+    
+  .control {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .control input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  
+  input {
+    margin: 10px;
+  }
+  
+  .btn {
+    margin: 10px;
+  }
+  
+  .failure{
+    color: red;
+  } */
+
+  .App {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .control {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .control input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  
+  input {
+    margin: 10px;
+  }
+  
+  .btn {
+    margin: 10px;
+  }
+  
+  .failure {
+    color: red;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .control {
+      max-width: 90%;
+    }
+  
+    input {
+      width: 100%;
+    }
+  }
+  

@@ -1,0 +1,12 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    color: black;
+  }
+  
+  .view-res-container {
+    
+    text-align: center;
+    color: black;
+  }
+  

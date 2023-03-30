@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d58fc4b.css",
+    "main.js": "/static/js/main.9c3f4f1f.js",
+    "static/media/pexels-pavel-danilyuk-5996747.jpg": "/static/media/pexels-pavel-danilyuk-5996747.68934973015560f83192.jpg",
+    "index.html": "/index.html",
+    "main.2d58fc4b.css.map": "/static/css/main.2d58fc4b.css.map",
+    "main.9c3f4f1f.js.map": "/static/js/main.9c3f4f1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d58fc4b.css",
+    "static/js/main.9c3f4f1f.js"
+  ]
+}
