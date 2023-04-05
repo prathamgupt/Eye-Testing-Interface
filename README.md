@@ -1,6 +1,6 @@
 # Deployed Link
 
-[[https://gentle-jalebi-604c62.netlify.app/](https://dazzling-halva-9fb326.netlify.app/)](https://heartfelt-kulfi-844af6.netlify.app/)
+[https://dazzling-halva-9fb326.netlify.app/](https://heartfelt-kulfi-844af6.netlify.app/)
 
 # Getting Started with Create React App
 
