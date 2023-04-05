@@ -1,6 +1,6 @@
 # Deployed Link
 
-(https://dazzling-halva-9fb326.netlify.app/)
+https://dazzling-halva-9fb326.netlify.app/
 
 # Getting Started with Create React App
 
