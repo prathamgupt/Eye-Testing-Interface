@@ -1,0 +1,33 @@
+.rules-container {
+    background-position: center center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-family: sans-serif;
+    padding: 2rem;
+  }
+  
+  h1 {
+    font-size: 4rem;
+    margin-bottom: 2rem;
+  }
+  
+  ul {
+    list-style: disc;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+  }
+  
+  li {
+    margin-bottom: 0.5rem;
+    font-size: 1.8rem;
+  }
+  .rule{
+    font-size: 4rem;
+  }
+
+  

@@ -1,0 +1,129 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #e7f8f8;
+  }
+  
+  .centered {
+    margin: 3rem auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .btn {
+    text-decoration: none;
+    background-color: teal;
+    color: white;
+    border-radius: 4px;
+    padding: 0.75rem 1.5rem;
+    border: 1px solid teal;
+    cursor: pointer;
+  }
+  
+  .btn:hover,
+  .btn:active {
+    background-color: #11acac;
+    border-color: #11acac;
+  }
+  
+  .btn--flat {
+    cursor: pointer;
+    font: inherit;
+    color: teal;
+    border: none;
+    background-color: none;
+    text-decoration: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+  }
+  
+  .btn--flat:hover,
+  .btn--flat:active {
+    background-color: teal;
+    color: white;
+  }
+
+  .btn-exit {
+    background-color: crimson;
+  }
+
+  .btn-exit:hover {
+    background-color: lightcoral;
+  }
+  
+  .control {
+    margin-bottom: 0.5rem;
+  }
+  
+  .control input {
+    font: inherit;
+    text-align: center;
+    padding: 0.35rem;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+    border: 1px solid #c1d1d1;
+    display: block;
+    width: 20%;
+    font-size: 1.25rem;
+    margin: auto;
+    display: block;
+  }
+  
+  .control input:focus {
+    background-color: #cbf8f8;
+    outline-color: teal;
+  }
+  
+  .confirm-page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .confirm-page-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .button-container button {
+    display: inline-block;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .btn-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+  }
+  
+  .btn {
+    margin: 0 1rem;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .contente {
+      height: calc(100vh - 56px); 
+      overflow-y: auto; 
+    }
+  }
+  
+
+.fail{
+  color: red;
+}
